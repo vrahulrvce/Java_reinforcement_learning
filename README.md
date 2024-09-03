@@ -67,6 +67,4 @@ public class QBot extends Bot {
 }
 ```
 
-The main challenge is to map the distance to the pipes and velocity of the flappy bird into a state. This project addresses
-the state mapping using the solution from [https://github.com/chncyhn/flappybird-qlearning-bot](https://github.com/chncyhn/flappybird-qlearning-bot) and
-converts the state string to a state integer for the QLearner. The state mapping implementation can be found in GameStates.java
+
