@@ -1,9 +1,3 @@
-# java-reinforcement-learning-flappy-bird
-
-Demo of the [java-reinforcement-learning](https://github.com/chen0040/java-reinforcement-learning) package. library using flappy bird
-
-The project can be considered a Java port of the [https://github.com/chncyhn/flappybird-qlearning-bot](https://github.com/chncyhn/flappybird-qlearning-bot) 
-for python, with the reinforcement learning component replaced by [java-reinforcement-learning](https://github.com/chen0040/java-reinforcement-learning)
 
 # Usage
 
@@ -18,13 +12,11 @@ java -jar bin/reinforcement-learning-flappy-bird.jar
 With the flappy bird game opened, press the "Start" button to start, "Accelerate" button to accelerate the game and learning,
 "Stop" button to stop the game.
 
-The demo video can be found in the image link below:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XigrhpTFnh8/0.jpg)](https://www.youtube.com/watch?v=XigrhpTFnh8)
 
 # Q Learning with Flappy Bird
 
-The following java codes show the implementation of the Q-learn bot for flappy bird TD-learning using [java-reinforcement-learning](https://github.com/chen0040/java-reinforcement-learning) 
+The following java codes show the implementation of the Q-learn bot  
 
 
 ```java
